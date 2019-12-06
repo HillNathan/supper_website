@@ -1,0 +1,57 @@
+/* SUPPER Red = html #d2232a or rgb(210, 35, 42) */
+body {
+    background-color: black;
+}
+
+header {
+    /* background-color: rgb(128,128,128, 0.5); */
+    height: 260px;
+    position: absolute;
+    width: 100%;
+}
+
+.carousel {
+    top: -300px;
+    z-index: -10;
+    width: 100%;
+    margin-bottom: -300px;
+}
+
+.slide {
+    width: 100%;
+}
+
+.stripe {
+    position: relative;
+    /* background-color: rgb(210, 35, 42); */
+    background-color: whitesmoke;
+    height: 140px;
+    width: 100%;
+    top: 45px;
+    text-align: center;
+    vertical-align: center;
+}
+
+.welcome {
+    color: rgb(210, 35, 42);
+    font-size: 36pt;
+}
+
+.logo-container {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
+
+.header-logo {
+    height: 300px;
+    width: 300px;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.spacer-50 {
+    width: 150px;
+}
