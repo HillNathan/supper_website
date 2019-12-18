@@ -11,10 +11,8 @@ header {
 }
 
 .carousel {
-    top: -300px;
     z-index: -10;
     width: 100%;
-    margin-bottom: -300px;
 }
 
 .slide {
